@@ -13,7 +13,7 @@ const coverLetter=
 `<p> ANDRES PEREZ <br>
 Deerfield Beach, FL 33442 | (C) (561) 213-7707 | AndresPerez327@Gmail.com <br><br>
 
-${month} ${day}, ${year},<br>
+${month} ${day}, ${year}<br>
 RE: ${role}, Dear ${companyName},<br>
 I read with enthusiasm your recent job opportunity as a ${role} and I am writing to express my deepest interest. When reviewing the position requirements and your organization’s website, I was excited to find that my qualifications and personal strengths align with your needs and mission.<br><br>
 
