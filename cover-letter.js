@@ -1,6 +1,5 @@
 
 alert("Welcome to Andres cover letter generator. Answer the following questions and receive your cover letter. Enjoy!");
-// const date = prompt("What is todays date? Month/Day/Year");
 const role =prompt("What position are you applying for?");
 const companyName = prompt('What is the name of the company you are applying to?');
 
