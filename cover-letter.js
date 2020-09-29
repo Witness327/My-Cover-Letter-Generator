@@ -1,16 +1,19 @@
 
 alert("Welcome to Andres cover letter generator. Answer the following questions and receive your cover letter. Enjoy!");
-const date = prompt("What is todays date? Month/Day/Year");
+// const date = prompt("What is todays date? Month/Day/Year");
 const role =prompt("What position are you applying for?");
 const companyName = prompt('What is the name of the company you are applying to?');
 
-
+const today = new Date()
+var month = today.toLocaleString('default', { month: 'long' })
+var day = today.getDate()
+var year = today.getFullYear()
 
 const coverLetter= 
 `<p> ANDRES PEREZ <br>
 Deerfield Beach, FL 33442 | (C) (561) 213-7707 | AndresPerez327@Gmail.com <br><br>
 
-${date}<br>
+${month} ${day}, ${year},<br>
 RE: ${role}, Dear ${companyName},<br>
 I read with enthusiasm your recent job opportunity as a ${role} and I am writing to express my deepest interest. When reviewing the position requirements and your organization’s website, I was excited to find that my qualifications and personal strengths align with your needs and mission.<br><br>
 
