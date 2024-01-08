@@ -29,6 +29,6 @@ Please feel free to take a look at the projects below: <br>
 <a href="https://play.google.com/store/apps/details?id=com.journeypx.connect&hl=en" target="_blank"><strong>https://play.google.com/store/apps/details?id=com.journeypx.connect&hl=en</strong></a> <br><br>
 
 Thank you for your time and consideration of my candidacy<br>
-Sincerely, Andres Perez </p>`
+Sincerely, Andres Perez  </p>`
 
 document.querySelector('main').innerHTML = coverLetter;
