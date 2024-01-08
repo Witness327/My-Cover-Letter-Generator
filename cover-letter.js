@@ -24,8 +24,8 @@ I bring a comprehensive set of skills that will be valuable to your company. As 
 Please review my enclosed resume for a more in-depth illustration of my work history and accomplishments. I would appreciate the opportunity to interview at your earliest convenience. I’m eager to discuss how my personality and background fit the ${role} role.<br><br>
 
 Please feel free to take a look at the projects below: <br>
-<a href="https://witness327.github.io/Signup-Form/" target="_blank"><strong>Witness327.GitHub.io/Signup-Form</strong></a>
-<a href="https://apps.apple.com/us/app/journeypx/id1671022441" target="_blank"><strong>https://apps.apple.com/us/app/journeypx/id1671022441</strong></a>
+<a href="https://witness327.github.io/Signup-Form/" target="_blank"><strong>Witness327.GitHub.io/Signup-Form</strong></a><br>
+<a href="https://apps.apple.com/us/app/journeypx/id1671022441" target="_blank"><strong>https://apps.apple.com/us/app/journeypx/id1671022441</strong></a><br>
 <a href="https://play.google.com/store/apps/details?id=com.journeypx.connect&hl=en" target="_blank"><strong>https://play.google.com/store/apps/details?id=com.journeypx.connect&hl=en</strong></a> <br><br>
 
 Thank you for your time and consideration of my candidacy<br>
