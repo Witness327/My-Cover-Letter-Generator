@@ -1,9 +1,9 @@
 
 body {
-  color: #fff;
+  color: black;
   font-family: "Gotham Rounded A", "Gotham Rounded B", "Gotham Rounded", "Helvetica Neue", Helvetica, Arial, sans-serif;
   box-sizing: border-box;
-  background-color: #3659a2;
+  /* background-color: white; */
 }
 
 main {
@@ -14,6 +14,6 @@ main {
 }
 
 p {
-  font-size: 3em;
+  font-size: 1em;
   line-height: 1.5;
 }
