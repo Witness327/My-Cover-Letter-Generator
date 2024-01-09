@@ -26,9 +26,9 @@ Please review my enclosed resume for a more in-depth illustration of my work his
 Please feel free to take a look at the projects below: <br>
 -Our app was featured on CBS News Chicago, which showcased St. Anthony's Hospital using it in the Mother Baby Unit:<br>
 <a href="https://www.cbsnews.com/chicago/news/hospital-technology-loved-ones-maternity-rooms-afar/" target="_blank"><strong>https://www.cbsnews.com/chicago/news/hospital-technology-loved-ones-maternity-rooms-afar/</strong></a><br><br>
--iOS App Store<br>
+-iOS App Store:<br>
 <a href="https://apps.apple.com/us/app/journeypx/id1671022441" target="_blank"><strong>https://apps.apple.com/us/app/journeypx/id1671022441</strong></a><br>
--Google Play Store<br>
+-Google Play Store:<br>
 <a href="https://play.google.com/store/apps/details?id=com.journeypx.connect&hl=en" target="_blank"><strong>https://play.google.com/store/apps/details?id=com.journeypx.connect&hl=en</strong></a><br><br>
 
 If you wish to check out additional projects, please click on the link below: <br>
